@@ -1,7 +1,7 @@
 === WordPress Facebook Comment Ranking ===
 Contributors: MankinJp
 Donate link: 
-Tags: facebook, comment, ranking, popular
+Tags: facebook, comment, ranking, popular, plugin
 Requires at least: 2.8
 Tested up to: 3.5.1
 Stable tag: 1.0
